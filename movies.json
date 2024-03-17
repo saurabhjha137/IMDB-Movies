@@ -1,0 +1,1502 @@
+[
+    {
+        "Rank": "1",
+        "Name": " The Shawshank Redemption",
+        "Year": "1994",
+        "Rating": "9."
+    },
+    {
+        "Rank": "2",
+        "Name": " The Godfather",
+        "Year": "1972",
+        "Rating": "9."
+    },
+    {
+        "Rank": "3",
+        "Name": " The Dark Knight",
+        "Year": "2008",
+        "Rating": "9."
+    },
+    {
+        "Rank": "4",
+        "Name": " The Godfather: Part II",
+        "Year": "1974",
+        "Rating": "9."
+    },
+    {
+        "Rank": "5",
+        "Name": " 12 Angry Men",
+        "Year": "1957",
+        "Rating": "9."
+    },
+    {
+        "Rank": "6",
+        "Name": " Schindler's List",
+        "Year": "1993",
+        "Rating": "9."
+    },
+    {
+        "Rank": "7",
+        "Name": " The Lord of the Rings: The Return of the King",
+        "Year": "2003",
+        "Rating": "9."
+    },
+    {
+        "Rank": "8",
+        "Name": " Pulp Fiction",
+        "Year": "1994",
+        "Rating": "8."
+    },
+    {
+        "Rank": "9",
+        "Name": " The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "2001",
+        "Rating": "8."
+    },
+    {
+        "Rank": "10",
+        "Name": " Il Buono, Il Brutto, Il Cattivo",
+        "Year": "1966",
+        "Rating": "8."
+    },
+    {
+        "Rank": "11",
+        "Name": " Forrest Gump",
+        "Year": "1994",
+        "Rating": "8."
+    },
+    {
+        "Rank": "12",
+        "Name": " Dune: Part Two",
+        "Year": "2024",
+        "Rating": "8."
+    },
+    {
+        "Rank": "13",
+        "Name": " The Lord of the Rings: The Two Towers",
+        "Year": "2002",
+        "Rating": "8."
+    },
+    {
+        "Rank": "14",
+        "Name": " Fight Club",
+        "Year": "1999",
+        "Rating": "8."
+    },
+    {
+        "Rank": "15",
+        "Name": " Inception",
+        "Year": "2010",
+        "Rating": "8."
+    },
+    {
+        "Rank": "16",
+        "Name": " Star Wars: Episode V - The Empire Strikes Back",
+        "Year": "1980",
+        "Rating": "8."
+    },
+    {
+        "Rank": "17",
+        "Name": " The Matrix",
+        "Year": "1999",
+        "Rating": "8."
+    },
+    {
+        "Rank": "18",
+        "Name": " GoodFellas",
+        "Year": "1990",
+        "Rating": "8."
+    },
+    {
+        "Rank": "19",
+        "Name": " One Flew Over the Cuckoo's Nest",
+        "Year": "1975",
+        "Rating": "8."
+    },
+    {
+        "Rank": "20",
+        "Name": " Se7en",
+        "Year": "1995",
+        "Rating": "8."
+    },
+    {
+        "Rank": "21",
+        "Name": " Interstellar",
+        "Year": "2014",
+        "Rating": "8."
+    },
+    {
+        "Rank": "22",
+        "Name": " It's a Wonderful Life",
+        "Year": "1946",
+        "Rating": "8."
+    },
+    {
+        "Rank": "23",
+        "Name": " Shichinin No Samurai",
+        "Year": "1954",
+        "Rating": "8."
+    },
+    {
+        "Rank": "24",
+        "Name": " The Silence of the Lambs",
+        "Year": "1991",
+        "Rating": "8."
+    },
+    {
+        "Rank": "25",
+        "Name": " Saving Private Ryan",
+        "Year": "1998",
+        "Rating": "8."
+    },
+    {
+        "Rank": "26",
+        "Name": " City of God",
+        "Year": "2002",
+        "Rating": "8."
+    },
+    {
+        "Rank": "27",
+        "Name": " Life Is Beautiful",
+        "Year": "1997",
+        "Rating": "8."
+    },
+    {
+        "Rank": "28",
+        "Name": " The Green Mile",
+        "Year": "1999",
+        "Rating": "8."
+    },
+    {
+        "Rank": "29",
+        "Name": " Terminator 2: Judgment Day",
+        "Year": "1991",
+        "Rating": "8."
+    },
+    {
+        "Rank": "30",
+        "Name": " Star Wars: Episode IV - A New Hope",
+        "Year": "1977",
+        "Rating": "8."
+    },
+    {
+        "Rank": "31",
+        "Name": " Back to the Future",
+        "Year": "1985",
+        "Rating": "8."
+    },
+    {
+        "Rank": "32",
+        "Name": " Spirited Away",
+        "Year": "2001",
+        "Rating": "8."
+    },
+    {
+        "Rank": "33",
+        "Name": " The Pianist",
+        "Year": "2002",
+        "Rating": "8."
+    },
+    {
+        "Rank": "34",
+        "Name": " Spider-man: Across the Spider-verse",
+        "Year": "2023",
+        "Rating": "8."
+    },
+    {
+        "Rank": "35",
+        "Name": " Parasite",
+        "Year": "2019",
+        "Rating": "8."
+    },
+    {
+        "Rank": "36",
+        "Name": " Psycho",
+        "Year": "1960",
+        "Rating": "8."
+    },
+    {
+        "Rank": "37",
+        "Name": " Gladiator",
+        "Year": "2000",
+        "Rating": "8."
+    },
+    {
+        "Rank": "38",
+        "Name": " The Lion King",
+        "Year": "1994",
+        "Rating": "8."
+    },
+    {
+        "Rank": "39",
+        "Name": " L\u00e9on",
+        "Year": "1994",
+        "Rating": "8."
+    },
+    {
+        "Rank": "40",
+        "Name": " The Departed",
+        "Year": "2006",
+        "Rating": "8."
+    },
+    {
+        "Rank": "41",
+        "Name": " American History X",
+        "Year": "1998",
+        "Rating": "8."
+    },
+    {
+        "Rank": "42",
+        "Name": " Whiplash",
+        "Year": "2014",
+        "Rating": "8."
+    },
+    {
+        "Rank": "43",
+        "Name": " The Prestige",
+        "Year": "2006",
+        "Rating": "8."
+    },
+    {
+        "Rank": "44",
+        "Name": " Grave of the Fireflies",
+        "Year": "1988",
+        "Rating": "8."
+    },
+    {
+        "Rank": "45",
+        "Name": " Seppuku",
+        "Year": "1962",
+        "Rating": "8."
+    },
+    {
+        "Rank": "46",
+        "Name": " The Usual Suspects",
+        "Year": "1995",
+        "Rating": "8."
+    },
+    {
+        "Rank": "47",
+        "Name": " Casablanca",
+        "Year": "1942",
+        "Rating": "8."
+    },
+    {
+        "Rank": "48",
+        "Name": " Intouchables",
+        "Year": "2011",
+        "Rating": "8."
+    },
+    {
+        "Rank": "49",
+        "Name": " Cinema Paradiso",
+        "Year": "1988",
+        "Rating": "8."
+    },
+    {
+        "Rank": "50",
+        "Name": " Modern Times",
+        "Year": "1936",
+        "Rating": "8."
+    },
+    {
+        "Rank": "51",
+        "Name": " Rear Window",
+        "Year": "1954",
+        "Rating": "8."
+    },
+    {
+        "Rank": "52",
+        "Name": " C'era Una Volta Il West",
+        "Year": "1968",
+        "Rating": "8."
+    },
+    {
+        "Rank": "53",
+        "Name": " Alien",
+        "Year": "1979",
+        "Rating": "8."
+    },
+    {
+        "Rank": "54",
+        "Name": " City Lights",
+        "Year": "1931",
+        "Rating": "8."
+    },
+    {
+        "Rank": "55",
+        "Name": " 12th Fail",
+        "Year": "2023",
+        "Rating": "9."
+    },
+    {
+        "Rank": "56",
+        "Name": " Apocalypse Now",
+        "Year": "1979",
+        "Rating": "8."
+    },
+    {
+        "Rank": "57",
+        "Name": " Django Unchained",
+        "Year": "2012",
+        "Rating": "8."
+    },
+    {
+        "Rank": "58",
+        "Name": " Memento",
+        "Year": "2000",
+        "Rating": "8."
+    },
+    {
+        "Rank": "59",
+        "Name": " WALL\u00b7E",
+        "Year": "2008",
+        "Rating": "8."
+    },
+    {
+        "Rank": "60",
+        "Name": " Raiders of the Lost Ark",
+        "Year": "1981",
+        "Rating": "8."
+    },
+    {
+        "Rank": "61",
+        "Name": " Das Leben der Anderen",
+        "Year": "2006",
+        "Rating": "8."
+    },
+    {
+        "Rank": "62",
+        "Name": " Sunset Blvd",
+        "Year": "1950",
+        "Rating": "8."
+    },
+    {
+        "Rank": "63",
+        "Name": " Paths of Glory",
+        "Year": "1957",
+        "Rating": "8."
+    },
+    {
+        "Rank": "64",
+        "Name": " Avengers: Infinity War",
+        "Year": "2018",
+        "Rating": "8."
+    },
+    {
+        "Rank": "65",
+        "Name": " Spider-Man: Into the Spider-Verse",
+        "Year": "2018",
+        "Rating": "8."
+    },
+    {
+        "Rank": "66",
+        "Name": " The Shining",
+        "Year": "1980",
+        "Rating": "8."
+    },
+    {
+        "Rank": "67",
+        "Name": " Witness for the Prosecution",
+        "Year": "1957",
+        "Rating": "8."
+    },
+    {
+        "Rank": "68",
+        "Name": " The Great Dictator",
+        "Year": "1940",
+        "Rating": "8."
+    },
+    {
+        "Rank": "69",
+        "Name": " Alien 2",
+        "Year": "1986",
+        "Rating": "8."
+    },
+    {
+        "Rank": "70",
+        "Name": " Inglourious Basterds",
+        "Year": "2009",
+        "Rating": "8."
+    },
+    {
+        "Rank": "71",
+        "Name": " The Dark Knight Rises",
+        "Year": "2012",
+        "Rating": "8."
+    },
+    {
+        "Rank": "72",
+        "Name": " Dr",
+        "Year": "1964",
+        "Rating": "8."
+    },
+    {
+        "Rank": "73",
+        "Name": " American Beauty",
+        "Year": "1999",
+        "Rating": "8."
+    },
+    {
+        "Rank": "74",
+        "Name": " Oldeuboi",
+        "Year": "2003",
+        "Rating": "8."
+    },
+    {
+        "Rank": "75",
+        "Name": " Coco",
+        "Year": "2017",
+        "Rating": "8."
+    },
+    {
+        "Rank": "76",
+        "Name": " Amadeus",
+        "Year": "1984",
+        "Rating": "8."
+    },
+    {
+        "Rank": "77",
+        "Name": " Toy Story",
+        "Year": "1995",
+        "Rating": "8."
+    },
+    {
+        "Rank": "78",
+        "Name": " Das Boot",
+        "Year": "1981",
+        "Rating": "8."
+    },
+    {
+        "Rank": "79",
+        "Name": " Braveheart",
+        "Year": "1995",
+        "Rating": "8."
+    },
+    {
+        "Rank": "80",
+        "Name": " Avengers: Endgame",
+        "Year": "2019",
+        "Rating": "8."
+    },
+    {
+        "Rank": "81",
+        "Name": " Joker",
+        "Year": "2019",
+        "Rating": "8."
+    },
+    {
+        "Rank": "82",
+        "Name": " Mononoke-hime",
+        "Year": "1997",
+        "Rating": "8."
+    },
+    {
+        "Rank": "83",
+        "Name": " Good Will Hunting",
+        "Year": "1997",
+        "Rating": "8."
+    },
+    {
+        "Rank": "84",
+        "Name": " Kimi No Na Wa",
+        "Year": "2016",
+        "Rating": "8."
+    },
+    {
+        "Rank": "85",
+        "Name": " Once Upon a Time in America",
+        "Year": "1984",
+        "Rating": "8."
+    },
+    {
+        "Rank": "86",
+        "Name": " Tengoku to Jigoku",
+        "Year": "1963",
+        "Rating": "8."
+    },
+    {
+        "Rank": "87",
+        "Name": " 3 Idiots",
+        "Year": "2009",
+        "Rating": "8."
+    },
+    {
+        "Rank": "88",
+        "Name": " Oppenheimer",
+        "Year": "2023",
+        "Rating": "8."
+    },
+    {
+        "Rank": "89",
+        "Name": " Singin' in the Rain",
+        "Year": "1952",
+        "Rating": "8."
+    },
+    {
+        "Rank": "90",
+        "Name": " Capharna\u00fcm",
+        "Year": "2018",
+        "Rating": "8."
+    },
+    {
+        "Rank": "91",
+        "Name": " Requiem for a Dream",
+        "Year": "2000",
+        "Rating": "8."
+    },
+    {
+        "Rank": "92",
+        "Name": " Idi I Smotri",
+        "Year": "1985",
+        "Rating": "8."
+    },
+    {
+        "Rank": "93",
+        "Name": " Toy Story 3",
+        "Year": "2010",
+        "Rating": "8."
+    },
+    {
+        "Rank": "94",
+        "Name": " Star Wars: Episode VI - Return of the Jedi",
+        "Year": "1983",
+        "Rating": "8."
+    },
+    {
+        "Rank": "95",
+        "Name": " Eternal Sunshine of the Spotless Mind",
+        "Year": "2004",
+        "Rating": "8."
+    },
+    {
+        "Rank": "96",
+        "Name": " Jagten",
+        "Year": "2012",
+        "Rating": "8."
+    },
+    {
+        "Rank": "97",
+        "Name": " 2001: A Space Odyssey",
+        "Year": "1968",
+        "Rating": "8."
+    },
+    {
+        "Rank": "98",
+        "Name": " Reservoir Dogs",
+        "Year": "1992",
+        "Rating": "8."
+    },
+    {
+        "Rank": "99",
+        "Name": " Ikiru",
+        "Year": "1952",
+        "Rating": "8."
+    },
+    {
+        "Rank": "100",
+        "Name": " Lawrence of Arabia",
+        "Year": "1962",
+        "Rating": "8."
+    },
+    {
+        "Rank": "101",
+        "Name": " The Apartment",
+        "Year": "1960",
+        "Rating": "8."
+    },
+    {
+        "Rank": "102",
+        "Name": " North by Northwest",
+        "Year": "1959",
+        "Rating": "8."
+    },
+    {
+        "Rank": "103",
+        "Name": " Citizen Kane",
+        "Year": "1941",
+        "Rating": "8."
+    },
+    {
+        "Rank": "104",
+        "Name": " M - Eine Stadt sucht einen M\u00f6rder",
+        "Year": "1931",
+        "Rating": "8."
+    },
+    {
+        "Rank": "105",
+        "Name": " Vertigo",
+        "Year": "1958",
+        "Rating": "8."
+    },
+    {
+        "Rank": "106",
+        "Name": " Double Indemnity",
+        "Year": "1944",
+        "Rating": "8."
+    },
+    {
+        "Rank": "107",
+        "Name": " Incendies",
+        "Year": "2010",
+        "Rating": "8."
+    },
+    {
+        "Rank": "108",
+        "Name": " Scarface",
+        "Year": "1983",
+        "Rating": "8."
+    },
+    {
+        "Rank": "109",
+        "Name": " Le fabuleux destin d'Am\u00e9lie Poulain",
+        "Year": "2001",
+        "Rating": "8."
+    },
+    {
+        "Rank": "110",
+        "Name": " Full Metal Jacket",
+        "Year": "1987",
+        "Rating": "8."
+    },
+    {
+        "Rank": "111",
+        "Name": " A Clockwork Orange",
+        "Year": "1971",
+        "Rating": "8."
+    },
+    {
+        "Rank": "112",
+        "Name": " Heat",
+        "Year": "1995",
+        "Rating": "8."
+    },
+    {
+        "Rank": "113",
+        "Name": " Up",
+        "Year": "2009",
+        "Rating": "8."
+    },
+    {
+        "Rank": "114",
+        "Name": " To Kill a Mockingbird",
+        "Year": "1962",
+        "Rating": "8."
+    },
+    {
+        "Rank": "115",
+        "Name": " The Sting",
+        "Year": "1973",
+        "Rating": "8."
+    },
+    {
+        "Rank": "116",
+        "Name": " Jodaeiye Nader Az Simin",
+        "Year": "2011",
+        "Rating": "8."
+    },
+    {
+        "Rank": "117",
+        "Name": " Indiana Jones and the Last Crusade",
+        "Year": "1989",
+        "Rating": "8."
+    },
+    {
+        "Rank": "118",
+        "Name": " Die Hard",
+        "Year": "1988",
+        "Rating": "8."
+    },
+    {
+        "Rank": "119",
+        "Name": " Metropolis",
+        "Year": "1927",
+        "Rating": "8."
+    },
+    {
+        "Rank": "120",
+        "Name": " Taare Zameen Par",
+        "Year": "2007",
+        "Rating": "8."
+    },
+    {
+        "Rank": "121",
+        "Name": " Hamilton",
+        "Year": "2020",
+        "Rating": "8."
+    },
+    {
+        "Rank": "122",
+        "Name": " Snatch",
+        "Year": "2000",
+        "Rating": "8."
+    },
+    {
+        "Rank": "123",
+        "Name": " L",
+        "Year": "1997",
+        "Rating": "8."
+    },
+    {
+        "Rank": "124",
+        "Name": " Ladri Di Biciclette",
+        "Year": "1948",
+        "Rating": "8."
+    },
+    {
+        "Rank": "125",
+        "Name": " 1917",
+        "Year": "2019",
+        "Rating": "8."
+    },
+    {
+        "Rank": "126",
+        "Name": " Taxi Driver",
+        "Year": "1976",
+        "Rating": "8."
+    },
+    {
+        "Rank": "127",
+        "Name": " Der Untergang",
+        "Year": "2004",
+        "Rating": "8."
+    },
+    {
+        "Rank": "128",
+        "Name": " Dangal",
+        "Year": "2016",
+        "Rating": "8."
+    },
+    {
+        "Rank": "129",
+        "Name": " Per qualche dollaro in pi\u00f9",
+        "Year": "1965",
+        "Rating": "8."
+    },
+    {
+        "Rank": "130",
+        "Name": " Batman Begins",
+        "Year": "2005",
+        "Rating": "8."
+    },
+    {
+        "Rank": "131",
+        "Name": " The Wolf of Wall Street",
+        "Year": "2013",
+        "Rating": "8."
+    },
+    {
+        "Rank": "132",
+        "Name": " Some Like It Hot",
+        "Year": "1959",
+        "Rating": "8."
+    },
+    {
+        "Rank": "133",
+        "Name": " The Kid",
+        "Year": "1921",
+        "Rating": "8."
+    },
+    {
+        "Rank": "134",
+        "Name": " Green Book",
+        "Year": "2018",
+        "Rating": "8."
+    },
+    {
+        "Rank": "135",
+        "Name": " The Father",
+        "Year": "2020",
+        "Rating": "8."
+    },
+    {
+        "Rank": "136",
+        "Name": " Judgment at Nuremberg",
+        "Year": "1961",
+        "Rating": "8."
+    },
+    {
+        "Rank": "137",
+        "Name": " Top Gun: Maverick",
+        "Year": "2022",
+        "Rating": "8."
+    },
+    {
+        "Rank": "138",
+        "Name": " All About Eve",
+        "Year": "1950",
+        "Rating": "8."
+    },
+    {
+        "Rank": "139",
+        "Name": " The Truman Show",
+        "Year": "1998",
+        "Rating": "8."
+    },
+    {
+        "Rank": "140",
+        "Name": " There Will Be Blood",
+        "Year": "2007",
+        "Rating": "8."
+    },
+    {
+        "Rank": "141",
+        "Name": " Shutter Island",
+        "Year": "2010",
+        "Rating": "8."
+    },
+    {
+        "Rank": "142",
+        "Name": " Casino",
+        "Year": "1995",
+        "Rating": "8."
+    },
+    {
+        "Rank": "143",
+        "Name": " Ran",
+        "Year": "1985",
+        "Rating": "8."
+    },
+    {
+        "Rank": "144",
+        "Name": " Jurassic Park",
+        "Year": "1993",
+        "Rating": "8."
+    },
+    {
+        "Rank": "145",
+        "Name": " The Sixth Sense",
+        "Year": "1999",
+        "Rating": "8."
+    },
+    {
+        "Rank": "146",
+        "Name": " El Laberinto Del Fauno",
+        "Year": "2006",
+        "Rating": "8."
+    },
+    {
+        "Rank": "147",
+        "Name": " Unforgiven",
+        "Year": "1992",
+        "Rating": "8."
+    },
+    {
+        "Rank": "148",
+        "Name": " A Beautiful Mind",
+        "Year": "2001",
+        "Rating": "8."
+    },
+    {
+        "Rank": "149",
+        "Name": " No Country for Old Men",
+        "Year": "2007",
+        "Rating": "8."
+    },
+    {
+        "Rank": "150",
+        "Name": " The Thing",
+        "Year": "1982",
+        "Rating": "8."
+    },
+    {
+        "Rank": "151",
+        "Name": " The Treasure of the Sierra Madre",
+        "Year": "1948",
+        "Rating": "8."
+    },
+    {
+        "Rank": "152",
+        "Name": " Kill Bill: Vol",
+        "Year": "2003",
+        "Rating": "8."
+    },
+    {
+        "Rank": "153",
+        "Name": " Yojimbo",
+        "Year": "1961",
+        "Rating": "8."
+    },
+    {
+        "Rank": "154",
+        "Name": " Monty Python and the Holy Grail",
+        "Year": "1975",
+        "Rating": "8."
+    },
+    {
+        "Rank": "155",
+        "Name": " The Great Escape",
+        "Year": "1963",
+        "Rating": "8."
+    },
+    {
+        "Rank": "156",
+        "Name": " Finding Nemo",
+        "Year": "2003",
+        "Rating": "8."
+    },
+    {
+        "Rank": "157",
+        "Name": " Rash\u014dmon",
+        "Year": "1950",
+        "Rating": "8."
+    },
+    {
+        "Rank": "158",
+        "Name": " Hauru No Ugoku Shiro",
+        "Year": "2004",
+        "Rating": "8."
+    },
+    {
+        "Rank": "159",
+        "Name": " Prisoners",
+        "Year": "2013",
+        "Rating": "8."
+    },
+    {
+        "Rank": "160",
+        "Name": " The Elephant Man",
+        "Year": "1980",
+        "Rating": "8."
+    },
+    {
+        "Rank": "161",
+        "Name": " Chinatown",
+        "Year": "1974",
+        "Rating": "8."
+    },
+    {
+        "Rank": "162",
+        "Name": " Dial M for Murder",
+        "Year": "1954",
+        "Rating": "8."
+    },
+    {
+        "Rank": "163",
+        "Name": " Gone with the Wind",
+        "Year": "1939",
+        "Rating": "8."
+    },
+    {
+        "Rank": "164",
+        "Name": " V for Vendetta",
+        "Year": "2005",
+        "Rating": "8."
+    },
+    {
+        "Rank": "165",
+        "Name": " Lock, Stock and Two Smoking Barrels",
+        "Year": "1998",
+        "Rating": "8."
+    },
+    {
+        "Rank": "166",
+        "Name": " El Secreto De Sus Ojos",
+        "Year": "2009",
+        "Rating": "8."
+    },
+    {
+        "Rank": "167",
+        "Name": " Raging Bull",
+        "Year": "1980",
+        "Rating": "8."
+    },
+    {
+        "Rank": "168",
+        "Name": " Inside Out",
+        "Year": "2015",
+        "Rating": "8."
+    },
+    {
+        "Rank": "169",
+        "Name": " Three Billboards Outside Ebbing, Missouri",
+        "Year": "2017",
+        "Rating": "8."
+    },
+    {
+        "Rank": "170",
+        "Name": " Trainspotting",
+        "Year": "1996",
+        "Rating": "8."
+    },
+    {
+        "Rank": "171",
+        "Name": " The Bridge on the River Kwai",
+        "Year": "1957",
+        "Rating": "8."
+    },
+    {
+        "Rank": "172",
+        "Name": " Spider-Man: No Way Home",
+        "Year": "2021",
+        "Rating": "8."
+    },
+    {
+        "Rank": "173",
+        "Name": " Fargo",
+        "Year": "1996",
+        "Rating": "8."
+    },
+    {
+        "Rank": "174",
+        "Name": " Klaus",
+        "Year": "2019",
+        "Rating": "8."
+    },
+    {
+        "Rank": "175",
+        "Name": " Warrior",
+        "Year": "2011",
+        "Rating": "8."
+    },
+    {
+        "Rank": "176",
+        "Name": " Catch Me If You Can",
+        "Year": "2002",
+        "Rating": "8."
+    },
+    {
+        "Rank": "177",
+        "Name": " Godzilla Minus One",
+        "Year": "2023",
+        "Rating": "8."
+    },
+    {
+        "Rank": "178",
+        "Name": " Gran Torino",
+        "Year": "2008",
+        "Rating": "8."
+    },
+    {
+        "Rank": "179",
+        "Name": " My Neighbour Totoro",
+        "Year": "1988",
+        "Rating": "8."
+    },
+    {
+        "Rank": "180",
+        "Name": " Million Dollar Baby",
+        "Year": "2004",
+        "Rating": "8."
+    },
+    {
+        "Rank": "181",
+        "Name": " Harry Potter and the Deathly Hallows: Part 2",
+        "Year": "2011",
+        "Rating": "8."
+    },
+    {
+        "Rank": "182",
+        "Name": " Bacheha-Ye Aseman",
+        "Year": "1997",
+        "Rating": "8."
+    },
+    {
+        "Rank": "183",
+        "Name": " 12 Years a Slave",
+        "Year": "2013",
+        "Rating": "8."
+    },
+    {
+        "Rank": "184",
+        "Name": " Blade Runner",
+        "Year": "1982",
+        "Rating": "8."
+    },
+    {
+        "Rank": "185",
+        "Name": " Before Sunrise",
+        "Year": "1995",
+        "Rating": "8."
+    },
+    {
+        "Rank": "186",
+        "Name": " The Grand Budapest Hotel",
+        "Year": "2014",
+        "Rating": "8."
+    },
+    {
+        "Rank": "187",
+        "Name": " Ben-Hur",
+        "Year": "1959",
+        "Rating": "8."
+    },
+    {
+        "Rank": "188",
+        "Name": " Barry Lyndon",
+        "Year": "1975",
+        "Rating": "8."
+    },
+    {
+        "Rank": "189",
+        "Name": " Gone Girl",
+        "Year": "2014",
+        "Rating": "8."
+    },
+    {
+        "Rank": "190",
+        "Name": " Hacksaw Ridge",
+        "Year": "2016",
+        "Rating": "8."
+    },
+    {
+        "Rank": "191",
+        "Name": " The Gold Rush",
+        "Year": "1925",
+        "Rating": "8."
+    },
+    {
+        "Rank": "192",
+        "Name": " In the Name of the Father",
+        "Year": "1993",
+        "Rating": "8."
+    },
+    {
+        "Rank": "193",
+        "Name": " Salinui Chueok",
+        "Year": "2003",
+        "Rating": "8."
+    },
+    {
+        "Rank": "194",
+        "Name": " Dead Poets Society",
+        "Year": "1989",
+        "Rating": "8."
+    },
+    {
+        "Rank": "195",
+        "Name": " On the Waterfront",
+        "Year": "1954",
+        "Rating": "8."
+    },
+    {
+        "Rank": "196",
+        "Name": " The General",
+        "Year": "1926",
+        "Rating": "8."
+    },
+    {
+        "Rank": "197",
+        "Name": " The Deer Hunter",
+        "Year": "1978",
+        "Rating": "8."
+    },
+    {
+        "Rank": "198",
+        "Name": " Relatos Salvajes",
+        "Year": "2014",
+        "Rating": "8."
+    },
+    {
+        "Rank": "199",
+        "Name": " Mad Max: Fury Road",
+        "Year": "2015",
+        "Rating": "8."
+    },
+    {
+        "Rank": "200",
+        "Name": " Monsters, Inc",
+        "Year": "2001",
+        "Rating": "8."
+    },
+    {
+        "Rank": "201",
+        "Name": " Sherlock Jr",
+        "Year": "1924",
+        "Rating": "8."
+    },
+    {
+        "Rank": "202",
+        "Name": " The Third Man",
+        "Year": "1949",
+        "Rating": "8."
+    },
+    {
+        "Rank": "203",
+        "Name": " Smultronst\u00e4llet",
+        "Year": "1957",
+        "Rating": "8."
+    },
+    {
+        "Rank": "204",
+        "Name": " Le Salaire De La Peur",
+        "Year": "1953",
+        "Rating": "8."
+    },
+    {
+        "Rank": "205",
+        "Name": " Jaws",
+        "Year": "1975",
+        "Rating": "8."
+    },
+    {
+        "Rank": "206",
+        "Name": " How to Train Your Dragon",
+        "Year": "2010",
+        "Rating": "8."
+    },
+    {
+        "Rank": "207",
+        "Name": " Mary and Max",
+        "Year": "2009",
+        "Rating": "8."
+    },
+    {
+        "Rank": "208",
+        "Name": " Mr",
+        "Year": "1939",
+        "Rating": "8."
+    },
+    {
+        "Rank": "209",
+        "Name": " Ford v",
+        "Year": "2019",
+        "Rating": "8."
+    },
+    {
+        "Rank": "210",
+        "Name": " Ratatouille",
+        "Year": "2007",
+        "Rating": "8."
+    },
+    {
+        "Rank": "211",
+        "Name": " Tokyo Story",
+        "Year": "1953",
+        "Rating": "8."
+    },
+    {
+        "Rank": "212",
+        "Name": " Det Sjunde Inseglet",
+        "Year": "1957",
+        "Rating": "8."
+    },
+    {
+        "Rank": "213",
+        "Name": " Room",
+        "Year": "2015",
+        "Rating": "8."
+    },
+    {
+        "Rank": "214",
+        "Name": " The Big Lebowski",
+        "Year": "1998",
+        "Rating": "8."
+    },
+    {
+        "Rank": "215",
+        "Name": " Rocky",
+        "Year": "1976",
+        "Rating": "8."
+    },
+    {
+        "Rank": "216",
+        "Name": " Logan",
+        "Year": "2017",
+        "Rating": "8."
+    },
+    {
+        "Rank": "217",
+        "Name": " Spotlight",
+        "Year": "2015",
+        "Rating": "8."
+    },
+    {
+        "Rank": "218",
+        "Name": " Hotel Rwanda",
+        "Year": "2004",
+        "Rating": "8."
+    },
+    {
+        "Rank": "219",
+        "Name": " Platoon",
+        "Year": "1986",
+        "Rating": "8."
+    },
+    {
+        "Rank": "220",
+        "Name": " The Terminator",
+        "Year": "1984",
+        "Rating": "8."
+    },
+    {
+        "Rank": "221",
+        "Name": " La passion de Jeanne d'Arc",
+        "Year": "1928",
+        "Rating": "8."
+    },
+    {
+        "Rank": "222",
+        "Name": " Before Sunset",
+        "Year": "2004",
+        "Rating": "8."
+    },
+    {
+        "Rank": "223",
+        "Name": " La haine",
+        "Year": "1995",
+        "Rating": "8."
+    },
+    {
+        "Rank": "224",
+        "Name": " The Best Years of Our Lives",
+        "Year": "1946",
+        "Rating": "8."
+    },
+    {
+        "Rank": "225",
+        "Name": " Jai Bhim",
+        "Year": "2021",
+        "Rating": "8."
+    },
+    {
+        "Rank": "226",
+        "Name": " The Exorcist",
+        "Year": "1973",
+        "Rating": "8."
+    },
+    {
+        "Rank": "227",
+        "Name": " Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Year": "2003",
+        "Rating": "8."
+    },
+    {
+        "Rank": "228",
+        "Name": " Rush",
+        "Year": "2013",
+        "Rating": "8."
+    },
+    {
+        "Rank": "229",
+        "Name": " Network",
+        "Year": "1976",
+        "Rating": "8."
+    },
+    {
+        "Rank": "230",
+        "Name": " Stand by Me",
+        "Year": "1986",
+        "Rating": "8."
+    },
+    {
+        "Rank": "231",
+        "Name": " The Wizard of Oz",
+        "Year": "1939",
+        "Rating": "8."
+    },
+    {
+        "Rank": "232",
+        "Name": " The Incredibles",
+        "Year": "2004",
+        "Rating": "8."
+    },
+    {
+        "Rank": "233",
+        "Name": " Hachi: A Dog's Tale",
+        "Year": "2009",
+        "Rating": "8."
+    },
+    {
+        "Rank": "234",
+        "Name": " My Father and My Son",
+        "Year": "2005",
+        "Rating": "8."
+    },
+    {
+        "Rank": "235",
+        "Name": " Into the Wild",
+        "Year": "2007",
+        "Rating": "8."
+    },
+    {
+        "Rank": "236",
+        "Name": " Ah-ga-ssi",
+        "Year": "2016",
+        "Rating": "8."
+    },
+    {
+        "Rank": "237",
+        "Name": " To Be or Not to Be",
+        "Year": "1942",
+        "Rating": "8."
+    },
+    {
+        "Rank": "238",
+        "Name": " The Sound of Music",
+        "Year": "1965",
+        "Rating": "8."
+    },
+    {
+        "Rank": "239",
+        "Name": " The Grapes of Wrath",
+        "Year": "1940",
+        "Rating": "8."
+    },
+    {
+        "Rank": "240",
+        "Name": " La battaglia di Algeri",
+        "Year": "1966",
+        "Rating": "8."
+    },
+    {
+        "Rank": "241",
+        "Name": " Groundhog Day",
+        "Year": "1993",
+        "Rating": "8."
+    },
+    {
+        "Rank": "242",
+        "Name": " Amores perros",
+        "Year": "2000",
+        "Rating": "8."
+    },
+    {
+        "Rank": "243",
+        "Name": " Rebecca",
+        "Year": "1940",
+        "Rating": "8."
+    },
+    {
+        "Rank": "244",
+        "Name": " Cool Hand Luke",
+        "Year": "1967",
+        "Rating": "8."
+    },
+    {
+        "Rank": "245",
+        "Name": " The Iron Giant",
+        "Year": "1999",
+        "Rating": "8."
+    },
+    {
+        "Rank": "246",
+        "Name": " The Help",
+        "Year": "2011",
+        "Rating": "8."
+    },
+    {
+        "Rank": "247",
+        "Name": " It Happened One Night",
+        "Year": "1934",
+        "Rating": "8."
+    },
+    {
+        "Rank": "248",
+        "Name": " Dances with Wolves",
+        "Year": "1990",
+        "Rating": "8."
+    },
+    {
+        "Rank": "249",
+        "Name": " Aladdin",
+        "Year": "1992",
+        "Rating": "8."
+    },
+    {
+        "Rank": "250",
+        "Name": " Drishyam",
+        "Year": "2015",
+        "Rating": "8."
+    }
+]
